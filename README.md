@@ -13,8 +13,8 @@ To use this repo, Simply Download two files :
   1. Vehicle_Detection_Tracking.ipynb
   2. SampleVideoForTesting.mp4
   
+Download SampleVideoForTesting.mp4 from https://youtu.be/RtbaVYXCwI8 
   
-To check results of this source code, Checout Results_Recorded.mp4
-
+Results are also uploaded on https://youtu.be/PpfkccRzukI 
 
 Thank You !!
