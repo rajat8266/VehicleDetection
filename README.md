@@ -17,4 +17,13 @@ Download SampleVideoForTesting.mp4 from https://youtu.be/RtbaVYXCwI8
   
 Results are also uploaded on https://youtu.be/PpfkccRzukI 
 
+
+Some Screen Shots!!
+
+1.
+
+2.
+
+
+
 Thank You !!
