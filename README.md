@@ -17,10 +17,10 @@ Download SampleVideoForTesting.mp4 from https://youtu.be/RtbaVYXCwI8
   
 Results are also uploaded on https://youtu.be/PpfkccRzukI 
 
-Test Image 
+Test Frame 
 
 ![alt text](https://raw.githubusercontent.com/rajat8266/VehicleDetection/master/Images/Test%20Image.jpg)
-Output Image
+Output Frame
 
 ![alt text](https://raw.githubusercontent.com/rajat8266/VehicleDetection/master/Images/Result%20Image.jpg)
 
